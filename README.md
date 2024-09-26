@@ -1,0 +1,1 @@
+We modeled the logistic equation to observe the growth of GDP and Trade for six countries, namely the United States of America, China, Japan, Germany, the United Kingdom, and India. We also tried to predict when India will become a $4 trillion and $5 trillion economy.
